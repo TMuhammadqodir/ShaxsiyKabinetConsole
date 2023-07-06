@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "8Q3TbSgxXnWNZwqW5mj9qzlcZvN25nW3l3k36Ucp1GVZnpgZ+sKorfusoQT6027xp4XmnrvdGzp+4LfY7o+cOg==",
+  "dgSpecHash": "TnFCi1zBPuf/FDXJNBOEQW1tZ6wy2iZuwF7Cq8/LXHTFVm6SGtBkuaSgKOWqmOxRM9MwgS0eMpLyPnXlwQGDHw==",
   "success": true,
-  "projectFilePath": "D:\\Ozodbekkkkk\\Codes\\ShaxsiyKabinetConsole\\Shaxsiy kabinet\\Shaxsiy kabinet.csproj",
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\ShaxsiyKabinetConsole\\Shaxsiy\\Shaxsiy kabinet\\Shaxsiy kabinet.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\O'tkirbek\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
-    "C:\\Users\\O'tkirbek\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
   ],
   "logs": []
 }
