@@ -8,3 +8,5 @@ AccsessPage accsessPage = new AccsessPage();
 accsessPage.StartProect();
 
 // Muhammadqodir nimadir yozgan ekanlar
+
+//Bu yerga yozdim
