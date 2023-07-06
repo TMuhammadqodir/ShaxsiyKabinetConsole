@@ -1,0 +1,18 @@
+C:\Users\Muhammadqodir\Documents\Shaxsiy kabinet\Shaxsiy kabinet\bin\Debug\net7.0\Shaxsiy kabinet.exe
+C:\Users\Muhammadqodir\Documents\Shaxsiy kabinet\Shaxsiy kabinet\bin\Debug\net7.0\Shaxsiy kabinet.deps.json
+C:\Users\Muhammadqodir\Documents\Shaxsiy kabinet\Shaxsiy kabinet\bin\Debug\net7.0\Shaxsiy kabinet.runtimeconfig.json
+C:\Users\Muhammadqodir\Documents\Shaxsiy kabinet\Shaxsiy kabinet\bin\Debug\net7.0\Shaxsiy kabinet.dll
+C:\Users\Muhammadqodir\Documents\Shaxsiy kabinet\Shaxsiy kabinet\bin\Debug\net7.0\Shaxsiy kabinet.pdb
+C:\Users\Muhammadqodir\Documents\Shaxsiy kabinet\Shaxsiy kabinet\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Muhammadqodir\Documents\Shaxsiy kabinet\Shaxsiy kabinet\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\Muhammadqodir\Documents\Shaxsiy kabinet\Shaxsiy kabinet\obj\Debug\net7.0\Shaxsiy kabinet.csproj.AssemblyReference.cache
+C:\Users\Muhammadqodir\Documents\Shaxsiy kabinet\Shaxsiy kabinet\obj\Debug\net7.0\Shaxsiy kabinet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammadqodir\Documents\Shaxsiy kabinet\Shaxsiy kabinet\obj\Debug\net7.0\Shaxsiy kabinet.AssemblyInfoInputs.cache
+C:\Users\Muhammadqodir\Documents\Shaxsiy kabinet\Shaxsiy kabinet\obj\Debug\net7.0\Shaxsiy kabinet.AssemblyInfo.cs
+C:\Users\Muhammadqodir\Documents\Shaxsiy kabinet\Shaxsiy kabinet\obj\Debug\net7.0\Shaxsiy kabinet.csproj.CoreCompileInputs.cache
+C:\Users\Muhammadqodir\Documents\Shaxsiy kabinet\Shaxsiy kabinet\obj\Debug\net7.0\Shaxsiy kabinet.csproj.CopyComplete
+C:\Users\Muhammadqodir\Documents\Shaxsiy kabinet\Shaxsiy kabinet\obj\Debug\net7.0\Shaxsiy kabinet.dll
+C:\Users\Muhammadqodir\Documents\Shaxsiy kabinet\Shaxsiy kabinet\obj\Debug\net7.0\refint\Shaxsiy kabinet.dll
+C:\Users\Muhammadqodir\Documents\Shaxsiy kabinet\Shaxsiy kabinet\obj\Debug\net7.0\Shaxsiy kabinet.pdb
+C:\Users\Muhammadqodir\Documents\Shaxsiy kabinet\Shaxsiy kabinet\obj\Debug\net7.0\Shaxsiy kabinet.genruntimeconfig.cache
+C:\Users\Muhammadqodir\Documents\Shaxsiy kabinet\Shaxsiy kabinet\obj\Debug\net7.0\ref\Shaxsiy kabinet.dll
