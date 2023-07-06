@@ -7,4 +7,4 @@ using Shaxsiy_kabinet.Services;
 AccsessPage accsessPage = new AccsessPage();
 accsessPage.StartProect();
 
-// Muhammadqodir
+// Muhammadqodir Turdiyev
