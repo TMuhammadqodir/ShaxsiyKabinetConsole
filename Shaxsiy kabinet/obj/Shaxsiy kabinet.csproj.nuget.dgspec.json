@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Muhammadqodir\\Documents\\Shaxsiy kabinet\\Shaxsiy kabinet\\Shaxsiy kabinet.csproj": {}
+    "D:\\Ozodbekkkkk\\Codes\\ShaxsiyKabinetConsole\\Shaxsiy kabinet\\Shaxsiy kabinet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Muhammadqodir\\Documents\\Shaxsiy kabinet\\Shaxsiy kabinet\\Shaxsiy kabinet.csproj": {
+    "D:\\Ozodbekkkkk\\Codes\\ShaxsiyKabinetConsole\\Shaxsiy kabinet\\Shaxsiy kabinet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Muhammadqodir\\Documents\\Shaxsiy kabinet\\Shaxsiy kabinet\\Shaxsiy kabinet.csproj",
+        "projectUniqueName": "D:\\Ozodbekkkkk\\Codes\\ShaxsiyKabinetConsole\\Shaxsiy kabinet\\Shaxsiy kabinet.csproj",
         "projectName": "Shaxsiy kabinet",
-        "projectPath": "C:\\Users\\Muhammadqodir\\Documents\\Shaxsiy kabinet\\Shaxsiy kabinet\\Shaxsiy kabinet.csproj",
-        "packagesPath": "C:\\Users\\Muhammadqodir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Muhammadqodir\\Documents\\Shaxsiy kabinet\\Shaxsiy kabinet\\obj\\",
+        "projectPath": "D:\\Ozodbekkkkk\\Codes\\ShaxsiyKabinetConsole\\Shaxsiy kabinet\\Shaxsiy kabinet.csproj",
+        "packagesPath": "C:\\Users\\O'tkirbek\\.nuget\\packages\\",
+        "outputPath": "D:\\Ozodbekkkkk\\Codes\\ShaxsiyKabinetConsole\\Shaxsiy kabinet\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Muhammadqodir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\O'tkirbek\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -70,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
